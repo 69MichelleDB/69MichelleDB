@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I work as a full time coder for a private company and 'till today I never considered having a personal github account, but better late than never.</p>
+<p align="left">I work as a full time coder and 'till today I never considered having a personal github account, but better late than never.</p>
 
 ###
 

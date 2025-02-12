@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I work as a full time programmer specialized in many kinda of databases and specially T-SLQ. Until recenctly I never considered having and using a personal github account, but better late than never.</p>
+<p align="left">I work as a full time programmer specialized in many kinds of databases and specially T-SLQ. Until recenctly I never considered having and using a personal github account, but better late than never.</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I work as a full time coder and 'till today I never considered having a personal github account, but better late than never.</p>
+<p align="left">I work as a full time programmer specialized in many kinda of databases and specially T-SLQ. Until recenctly I never considered having and using a personal github account, but better late than never.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">What I work with more frequently</h4>
+<h4 align="left">I work more frequently as a hobby with these:</h4>
 
 ###
 
@@ -28,9 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <span> T-SQL</span>
 </div>
 
 ###
